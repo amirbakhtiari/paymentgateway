@@ -13,7 +13,6 @@ class PaymentGatewayServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        // $this->loadViewsFrom(__DIR__ . '/views', 'gateway');
         $this->publishes([
             __DIR__ . '/views' => base_path('resources/views/bakhtiari/paymentgateway')
         ]);
