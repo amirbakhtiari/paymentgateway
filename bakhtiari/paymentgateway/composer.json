@@ -1,0 +1,14 @@
+{
+    "name": "bakhtiari/paymentgateway",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "amir",
+            "email": "amir.bakhtiari@ymail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    }
+}
